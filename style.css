@@ -1,0 +1,57 @@
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.body-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex;
+    flex-direction: row;
+    margin-left: 10%;
+}
+
+.detail-card {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 6%;
+    margin-top: 2%;
+}
+
+.border3 {
+    border-style:solid;
+    border-width: 3px;
+    width: 600px;
+}
+
+#actorBlurb h1 {
+    font-size: 24px;
+    font-weight: bold;
+    width: 350px;
+}
+
+input {
+    width: 11%;
+    margin-top: 0.5%;
+}
+
+#actorBlurb p {
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 4px;
+    max-width: 300px;
+}
+
+.item-name {
+    border-bottom: 1px #999 solid;
+}
+
+.legend {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
