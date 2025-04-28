@@ -15,7 +15,7 @@ This project is an interactive **D3.js** visualization that displays data from N
 
 1. **Load the page** — A force-directed graph will appear, showing nodes (actors and TV shows) connected by edges.
 2. **Hover over any node** to view more information about the actor or TV show.
-3. 2. **Click anywhere** to unhighlight the hovered node and it neighbors.
+3. **Click anywhere** to unhighlight the hovered node and it neighbors.
 4. **Use the search bar** at the top to find a specific actor or TV show. Type a name, and the graph will filter the nodes to display the search result.
 
 ## Data Source
